@@ -57,7 +57,7 @@ END:VCARD`
           {/* Center - Social Icons */}
           <div className="flex gap-3">
             {/* Phone - Save Contact */}
-            <button
+            {/* <button
               onClick={handlePhoneClick}
               className="w-12 h-12 rounded-full bg-primary/10 flex items-center justify-center text-primary hover:bg-primary/20 transition-colors cursor-pointer"
               aria-label="Save Phone Contact"
@@ -76,7 +76,7 @@ END:VCARD`
                   d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"
                 />
               </svg>
-            </button>
+            </button> */}
 
             {/* LinkedIn */}
             <a
@@ -138,7 +138,7 @@ END:VCARD`
           </div>
 
           {/* Right - Social Links */}
-          <div className="flex gap-6 text-sm text-foreground">
+          {/* <div className="flex gap-6 text-sm text-foreground">
             <a
               href={facebookUrl}
               target="_blank"
@@ -161,7 +161,7 @@ END:VCARD`
             >
               Email
             </a>
-          </div>
+          </div> */}
         </div>
       </div>
     </footer>

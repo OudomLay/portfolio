@@ -74,8 +74,8 @@ export default function CapabilitiesSection() {
       ),
       title: 'Graphic Design',
       items: [
-        'Functional Specification Docs',
-        'Design System Governance',
+        'Experience on Photoshop & Illustrator',
+        'Assistant Cameraman',
         'Technical Requirements',
       ],
     },

@@ -30,7 +30,7 @@ export default function HeroSection({ onViewWorkClick }: HeroSectionProps) {
             </div>
 
             <p className="text-base md:text-lg text-muted-foreground leading-relaxed max-w-lg">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+              Looking for a UX/UI Designer? Great news — you just found one! I'm here, I'm ready, and I promise I make buttons that actually work. Let's build something awesome together!
             </p>
 
             <div className="flex flex-wrap gap-4 pt-4">
