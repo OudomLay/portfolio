@@ -25,14 +25,15 @@ const ExperienceSection = forwardRef<HTMLDivElement>((props, ref) => {
           <div className="lg:col-span-2 space-y-6">
             <div>
               <p className="text-base md:text-lg text-muted-foreground leading-relaxed">
-                Hello, my name is <span className="font-semibold text-foreground text-primary">Lay Oudom</span>. I am 24 years old and a proud graduate from the
+                Hello, my name is <span className="font-semibold text-foreground text-primary">Lay Oudom</span>. I am 24 years old and graduate from the
                 <span className="font-semibold text-foreground"> Royal University of Phnom Penh (RUPP)</span>.
               </p>
             </div>
 
             <div>
               <p className="text-base md:text-lg text-muted-foreground leading-relaxed">
-                As a dedicated UXUI Designer, I specialize in translating complex problems into intuitive, user-centric digital solutions. Beyond design, I actively assist with web frontend development, ensuring that the visual integrity of my concepts is maintained through implementation and rigorous testing activities.
+                I'm a UX/UI Designer with 1 year of experience creating user-friendly and visually appealing mobile and web applications. I also have 6 months of experience in Graphic Design, which strengthens my understanding of visual design, branding, and layout.
+                In my current role, I design user flows, wireframes, and high-fidelity interfaces using Figma while collaborating with cross-functional teams. I also support application and website testing, review user flows, and prepare design documentation to ensure a smooth development process. With a background in Computer Science, I enjoy creating intuitive digital experiences that balance user needs with business goals.
               </p>
             </div>
 
